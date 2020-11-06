@@ -25,6 +25,29 @@ Still ready? Fill the template. 👇
 Provide a clear and concise description of what the bug is.
 -->
 
+## Reproducible sample code
+
+<!--
+- You must provide a **minimal and easy-to-run** reproduction of your issue - [how to create a minimal reproduction?](https://stackoverflow.com/help/mcve). We're a small team of maintainers and do not have time to try reproduce bugs ourselves.
+- Please try to reproduce the bugs on the provided example app. Either provide a link to the repo that reproduces the bug or provide your code that reproduces the issue and that we can easily use.
+- Provide other samples: error messages / stack traces, screenshots, gifs, as suitable.
+-->
+
+## Steps to reproduce
+
+<!--
+- If you're asking for help, please make it easy for us to help you!
+- Explain the steps we need to take to reproduce the issue:
+-->
+
+1. …
+2. …
+
+Describe what you expected to happen:
+
+1. …
+2. …
+
 ## Environment info
 
 <!--
@@ -37,29 +60,5 @@ Run `react-native info` in your terminal and paste the results here. Also, inclu
 # paste it here
 ```
 
-Library version: x.x.x
+datetimepicker version: x.x.x
 iOS / Android version: x.x
-
-## Steps to reproduce
-
-<!--
-- If you're asking for help, please make it easy for us to help you!
-- You must provide a **minimal and easy-to-run** reproduction of your issue - [how to create a minimal reproduction?](https://stackoverflow.com/help/mcve). We're a small team of maintainers and do not have time to try reproduce bugs ourselves.
-- Please try to reproduce the bugs on the provided example app. Either provide a link to the repo that reproduces the bug or provide your code that reproduces the issue and that we can easily use.
-- Explain the steps we need to take to reproduce the issue:
--->
-
-1. …
-2. …
-
-Describe what you expected to happen:
-
-1. …
-2. …
-
-## Reproducible sample code
-
-<!--
-Please add minimal runnable repro as explained above so that the bug can be tested in isolation.
-If needed, you can also provide other samples: error messages / stack traces, screenshots, gifs, etc.
--->
