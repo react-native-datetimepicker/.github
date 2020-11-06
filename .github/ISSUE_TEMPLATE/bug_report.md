@@ -8,14 +8,13 @@ about: Report a reproducible bug or regression in this library.
 <!--
 👋 Hi!
 
-🚨 Please read the following carefully before opening a new issue. Your issue may
-be closed if it doesn't provide the required pieces of information. 🚨
+🚨 Please read the following carefully before opening a new issue. Your issue probably will
+be closed if it doesn't follow the template. 🚨
 
 Before submitting a new issue, please:
 
-- Test using the latest release of the library, as maybe your bug has been already fixed.
+- Test using the latest release of the library in a React Native project, as maybe your bug has been already fixed. Please do not use Expo to reproduce bugs, because there might be a bug in Expo, not this library.
 - Check for possible duplicate issues, with possible answers.
-- Check on https://reactnative.directory if this package supports your target platform (Android, iOS, Expo, …)
 
 Still ready? Fill the template. 👇
 -->
@@ -39,14 +38,14 @@ Run `react-native info` in your terminal and paste the results here. Also, inclu
 ```
 
 Library version: x.x.x
+iOS / Android version: x.x
 
 ## Steps to reproduce
 
 <!--
-- You must provide a clear list of steps and code to reproduce the problem.
-- Keep the code reproducing the bug as simple as possible, with the minimum amount of code required to reproduce the issue. See https://stackoverflow.com/help/mcve.
-- If this library has additional install steps, describe them (e.g., pod install? jetify? etc).
-- Either re-create the bug using the repository's example app or link to a GitHub repository with code that reproduces the bug.
+- If you're asking for help, please make it easy for us to help you!
+- You must provide a **minimal and easy-to-run** reproduction of your issue - [how to create a minimal reproduction?](https://stackoverflow.com/help/mcve). We're a small team of maintainers and do not have time to try reproduce bugs ourselves.
+- Please try to reproduce the bugs on the provided example app. Either provide a link to the repo that reproduces the bug or provide your code that reproduces the issue and that we can easily use.
 - Explain the steps we need to take to reproduce the issue:
 -->
 

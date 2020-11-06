@@ -6,7 +6,7 @@ about: Submit your idea for a change in the codebase.
 # Feature request
 
 <!--
-This issue should serve for you to present or pitch an idea to the maintainers - but remember that it would be better if you were to submit a PR instead 🤗
+This issue should serve for you to present or pitch an idea to the maintainers - but remember that it may be better to just submit a PR that will add the feature, if you believe it may be benefitial to others, too 🤗
 -->
 
 ## Why it is needed

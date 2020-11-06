@@ -13,7 +13,7 @@ Explain the **motivation** for making this change: here are some points to help 
 
 ## Test Plan
 
-<!-- Demonstrate the code is solid. Example: The exact commands you ran and their output, screenshots / videos if the pull request changes UI. -->
+<!-- Demonstrate the code is solid. Example: The exact commands you ran and their output, screenshots / videos if the pull request changes UI. Add automated tests if possible. -->
 
 ### What's required for testing (prerequisites)?
 
@@ -32,6 +32,6 @@ Explain the **motivation** for making this change: here are some points to help 
 
 - [ ] I have tested this on a device and a simulator
 - [ ] I added the documentation in `README.md`
-- [ ] I mentioned this change in `CHANGELOG.md`
 - [ ] I updated the typed files (TS and Flow)
 - [ ] I added a sample use of the API in the example project (`example/App.js`)
+- [ ] I have added automated tests
