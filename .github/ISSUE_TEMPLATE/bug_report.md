@@ -13,7 +13,7 @@ be closed if it doesn't follow the template. 🚨
 
 Before submitting a new issue, please:
 
-- Test using the latest release of the library in a React Native project, as maybe your bug has been already fixed. Please do not use Expo to reproduce bugs, because there might be a bug in Expo, not this library.
+- Test using the latest release of the library in a React Native project, as maybe your bug has been already fixed.
 - Check for possible duplicate issues, with possible answers.
 
 Still ready? Fill the template. 👇
@@ -23,6 +23,7 @@ Still ready? Fill the template. 👇
 
 <!--
 Provide a clear and concise description of what the bug is.
+If you're asking for help, please make it easy for us to help you!
 -->
 
 ## Reproducible sample code
@@ -36,7 +37,6 @@ Provide a clear and concise description of what the bug is.
 ## Steps to reproduce
 
 <!--
-- If you're asking for help, please make it easy for us to help you!
 - Explain the steps we need to take to reproduce the issue:
 -->
 
@@ -51,6 +51,7 @@ Describe what you expected to happen:
 ## Environment info
 
 <!--
+If you're using Expo, please state the version of it.
 Run `react-native info` in your terminal and paste the results here. Also, include the *precise* version number of this library that you are using in the project.
 -->
 
