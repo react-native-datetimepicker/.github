@@ -52,10 +52,10 @@ Describe what you expected to happen:
 
 <!--
 If you're using Expo, please state the version of it.
-Run `react-native info` in your terminal and paste the results here. Also, include the *precise* version number of this library that you are using in the project.
+Run `npx react-native info` in your terminal and paste the results here. Also, include the *precise* version number of this library that you are using in the project.
 -->
 
-`react-native info` output:
+`npx react-native info` output:
 
 ```bash
 # paste it here
