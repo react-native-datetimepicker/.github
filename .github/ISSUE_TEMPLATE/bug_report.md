@@ -62,4 +62,5 @@ Run `npx react-native info` in your terminal and paste the results here. Also, i
 ```
 
 datetimepicker version: x.x.x
+
 iOS / Android version: x.x
