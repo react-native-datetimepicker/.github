@@ -13,10 +13,10 @@ be closed if it doesn't follow the template. 🚨
 
 Before submitting a new issue, please:
 
-- Test using the latest release of the library in a React Native project, as maybe your bug has been already fixed.
+- Test using the latest release of the library, as maybe your bug has been already fixed. If you use expo, use `expo install` to install the latest version provided by expo
 - Check for possible duplicate issues, with possible answers.
 
-Still ready? Fill the template. 👇
+Still no progress? Fill the template. 👇
 -->
 
 ## Summary
