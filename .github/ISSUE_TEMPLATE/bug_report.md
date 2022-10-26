@@ -8,7 +8,7 @@ about: Report a reproducible bug or regression in this library.
 <!--
 👋 Hi!
 
-🚨 Please read the following carefully. Your issue will be closed if it doesn't include all necessary information. 🚨
+🚨 Please read the following carefully. Your issue probably will be closed if it doesn't include all necessary information. 🚨
 
 Before submitting a new issue, please:
 
