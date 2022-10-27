@@ -33,7 +33,7 @@ If you're asking for help, please make it easy for us to help you!
 <!--
 - You must provide a **minimal and easy-to-run** reproduction of your issue - [how to create a minimal reproduction?](https://stackoverflow.com/help/mcve). We're a small team of maintainers (1) and do not have time to try reproduce bugs ourselves.
 
-That means the code needs to have all the variables and imports defined, and can be copy + pasted and executed right away.
+🚨 That means the code needs to have all the variables and imports defined, and can be copy + pasted and executed right away. 🚨
 
 - Please try to reproduce the bugs on the provided example app. Either provide a link to the repo that reproduces the bug or provide your code that reproduces the issue and that we can copy + paste to run
 - Provide other samples: error messages / stack traces, screenshots, gifs, as suitable.
